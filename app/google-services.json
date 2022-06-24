@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044742811793",
+    "project_id": "fir-register-326d8",
+    "storage_bucket": "fir-register-326d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044742811793:android:1aee4f8ea0831fdb150f30",
+        "android_client_info": {
+          "package_name": "com.example.firebaseregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044742811793-a46g40td1arbdmtd5884nio0321r6hju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrq-4QJxKGra3p4-ab-AN-X3wEsbgNnow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044742811793-a46g40td1arbdmtd5884nio0321r6hju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
